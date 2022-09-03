@@ -35,7 +35,7 @@ body p, body li, body span {
 .hero .navbar ul {
   display: flex;
   align-items: center;
-  margin-left: 100px;
+  margin-left: 50px;
   margin-top: 12px;
 }
 .hero .navbar ul li {
@@ -97,12 +97,8 @@ body p, body li, body span {
   stroke: #fff;
 }
 .hero .right-header {
-  top: 0;
-  right: 0;
   width: 50%;
   height: 900px;
-  z-index: -1;
-  background: url(/img/Picture.png) center top/cover no-repeat;
 }
 
 .slider {
